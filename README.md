@@ -31,4 +31,4 @@ This includes....
 * .NET FRAMEWORK 4.7.2
 * Windows 10 Home
 # How to run software
-Click LowVisionSoftware.sln > Start / Ctrl + F5
+Click LowVisionSoftwareLVS.sln > Start / Ctrl + F5
